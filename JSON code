@@ -1,0 +1,130 @@
+{
+  "name": "Tushi Mittal",
+  "contact": {
+    "phone": "+91-9755589225",
+    "email": ["tm7597@srmist.edu.in", "mittaltushi@gmail.com"],
+    "location": "Indore, Madhya Pradesh, India"
+  },
+  "education": [
+    {
+      "degree": "B.Tech. - Computer Science & Engineering",
+      "institution": "SRM Institute of Science & Technology, Kattankulathur",
+      "year": "2021 - 2025",
+      "cgpa": "8.58 / 10"
+    },
+    {
+      "degree": "12th",
+      "institution": "New Digamber Public School, Indore",
+      "year": 2021,
+      "percentage": "88.60 / 100"
+    },
+    {
+      "degree": "10th",
+      "institution": "New Digamber Public School, Indore",
+      "year": 2019,
+      "percentage": "93.20 / 100"
+    }
+  ],
+  "brief_summary": "As a fourth-year BTech student at SRM Institute of Science and Technology, I am passionate about leveraging my skills in web development, artificial intelligence, and graphic design to contribute to the tech industry. I have a solid foundation in HTML, CSS, JavaScript, and ReactJs, gained through hands-on projects and coursework, allowing me to design and develop dynamic, user-friendly websites. My studies in artificial intelligence have provided me with a comprehensive understanding of machine learning algorithms, neural networks, and data analysis techniques, which I am eager to apply to solve complex problems. Additionally, my graphic design skills using tools like Figma enable me to create visually appealing and intuitive user interfaces, enhancing user experience. I am enthusiastic about exploring opportunities to further expand my knowledge through internships, research projects, and professional development initiatives, with the goal of making meaningful contributions to technology and society.",
+  "skills": [
+    "Web Development",
+    "C++",
+    "Python",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "ReactJs",
+    "Graphic Design",
+    "Figma"
+  ],
+  "internships": [
+    {
+      "duration": "25 May, 2024 - 28 Jun, 2024",
+      "company": "AICTE-Blue Prism",
+      "role": "Associate Developer",
+      "skills": ["Intelligent automation"],
+      "description": "Gained hands-on experience in robotic process automation (RPA), mastering the use of Blue Prism's tools and technologies to design, develop, and implement automated processes. Developed proficiency in creating bots, automating workflows, and optimizing business processes to enhance efficiency and accuracy. Collaborated with a team to solve real-world problems, applying intelligent automation techniques to drive innovation and improve operational performance."
+    },
+    {
+      "duration": "10 Aug, 2022 - 06 Oct, 2022",
+      "company": "IBM",
+      "role": "Trainee Web Developer",
+      "skills": ["Web Development", "HTML", "CSS", "JavaScript"],
+      "description": "Completed an internship and training program at IBM focused on front-end web development. Gained hands-on experience in building and maintaining web applications using HTML, CSS, JavaScript, and React. Developed skills in creating responsive, user-friendly interfaces and collaborating with a team to deliver high-quality web solutions, enhancing my proficiency in modern front-end technologies in a professional setting."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Email spam detection",
+      "duration": "30 Jan, 2024 - 01 May, 2024",
+      "mentor": "Dr. A Revathi",
+      "team_size": 2,
+      "skills": ["Machine learning", "Python"],
+      "project_link": "https://github.com/mehulk21/Email-Spam-Detection",
+      "description": "Developed effective methods to detect and filter out spam emails to safeguard individuals, businesses, and the integrity of online communication platforms."
+    },
+    {
+      "name": "Facial Emotion Recognition",
+      "duration": "01 Feb, 2024 - 25 Apr, 2024",
+      "mentor": "Dr. Manoj Kumar",
+      "team_size": 2,
+      "skills": ["Deep Learning", "Natural Language Processing", "Convolution Neural Networks"],
+      "project_link": "https://github.com/tushimittal/Facial-Emotion-Detection",
+      "description": "Utilized image processing techniques and machine learning algorithms to detect facial emotions from images, providing a tool for analyzing human emotions based on facial expressions."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Data Mining",
+      "institution": "NPTEL",
+      "score": "61 / 100",
+      "skills": ["Data Mining"]
+    },
+    {
+      "name": "Google Business Intelligence",
+      "score": "95 / 100",
+      "skills": ["Business Intelligence"]
+    },
+    {
+      "name": "React basics",
+      "skills": ["ReactJS"]
+    },
+    {
+      "name": "Oracle Certified Foundation Associates",
+      "score": "94.30 / 100",
+      "skills": ["Cloud", "Database"]
+    }
+  ],
+  "seminars_trainings_workshops": [
+    {
+      "date": "18 Apr, 2024",
+      "event": "WTF 2.0",
+      "institution": "SRM Institute of Science & Technology, Kattankulathur",
+      "skills": ["Cyber-security"],
+      "description": "Contributed to designing visually captivating promotional materials and assets for the 'Where the Flag' cybersecurity event by the HackTheBox Community."
+    },
+    {
+      "date": "14 Mar, 2024",
+      "event": "Cyber as Defence",
+      "institution": "SRM Institute of Science & Technology, Kattankulathur",
+      "description": "Designed engaging promotional materials to raise awareness about cybersecurity threats and defenses, fostering collaboration and empowering individuals and organizations to enhance their cyber resilience."
+    }
+  ],
+  "personal_details": {
+    "gender": "Female",
+    "marital_status": "Single",
+    "address": "601 Floral Apartments, Morya Gardens, Kanadia Road, Indore, Madhya Pradesh, India",
+    "date_of_birth": "15 May, 2003",
+    "languages": ["English", "Hindi"]
+  },
+  "activities_interests": {
+    "co_curricular": ["Graphic Designing", "3D modelling"],
+    "extra_curricular": ["Poster Designing"],
+    "hobbies": ["Badminton", "Listening to Podcasts", "Graphics and Editing"]
+  },
+  "web_links": [
+    "https://github.com/tushimittal",
+    "https://leetcode.com/u/tm7597/",
+    "https://www.hackerrank.com/profile/tm7597"
+  ]
+}
